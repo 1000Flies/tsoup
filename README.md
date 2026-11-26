@@ -1,2 +1,43 @@
-# tsoup
-Prepared game packages for tsoup! — download, import and play.
+# tsoup!
+## Physical board games. AI opponents. Your next game night.
+
+Keep the board, the cards and the pieces. Let AI take the other side.
+
+tsoup! is a free Windows app for playing physical board games with AI opponents. Share the game through photos or a web camera, talk through your moves, and move the pieces for both sides.
+
+### Get started
+1. Download and install tsoup! from **Releases**.
+2. Choose a game already in your library or import a prepared game package. If yours isn’t available, prepare it from its rulebook, adding any missing game information.
+3. Connect your phone or tablet as a controller, and set up photos or a web camera.
+4. Start a match. You’ll discover the rest as you play—the built-in guide is there whenever you need it.
+
+Game preparation is done once. Reuse your package for future matches, and share it so someone else can get straight to playing.
+
+### What you need
+- A Windows PC.
+- Your physical board game.
+- A way to share images: a phone can handle both controls and photos. A web camera and a tablet can make longer sessions more comfortable.
+- Your own paid ChatGPT or Claude account, currently supported.
+
+**tsoup! is completely free. Your AI opponents use your own account’s allowance.** A paid subscription alone does not guarantee enough usage for a full match. In testing so far, entry-level paid plans have run short; the model and plan you choose matter.
+
+Windows and Android have been tested. iPhone and iPad support has been planned for, but has not yet been tested.
+
+### Still exploring
+tsoup! has grown through hands-on testing across different games. This first public beta opens that exploration to more players, setups and ideas. Compatibility and opponent quality will vary by game and AI model.
+
+### A little help along the way
+Have a question? Open **Ask tsoup!** inside the app for help with using tsoup!. The built-in guide is there whenever you want more detail.
+
+### Ask. Share. Help.
+Talk board games, ask questions, and share prepared game packages so someone else can get straight to playing.
+
+[Find us on Facebook](https://www.facebook.com/groups/tsoup.boardgames/)
+
+### Say hello
+For a private message, get in touch at [hey.tsoup@gmail.com](mailto:hey.tsoup@gmail.com).
+
+---
+Created by Panos Christodoulou.
+
+This repository distributes the application. The application’s source code is not published here.
