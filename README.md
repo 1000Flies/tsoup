@@ -5,6 +5,8 @@ Keep the board, the cards and the pieces. Let AI take the other side.
 
 tsoup! is a free Windows app for playing physical board games with AI opponents. Share the game through photos or a web camera, talk through your moves, and move the pieces for both sides.
 
+[Explore tsoup! →](https://tsoup.pages.dev/)
+
 ### Get started
 1. Download and install tsoup! from **Releases**.
 2. Choose a game already in your library or import a prepared game package. If yours isn’t available, prepare it from its rulebook, adding any missing game information.
