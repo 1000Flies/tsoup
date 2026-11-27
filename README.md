@@ -7,6 +7,20 @@ tsoup! is a free Windows app for playing physical board games with AI opponents.
 
 [Explore tsoup! →](https://tsoup.pages.dev/)
 
+## Download prepared games
+
+The app and its game packages are separate downloads. A fresh installation starts with an empty Library.
+
+[Download prepared games](https://github.com/1000Flies/tsoup-games/releases/tag/prepared-games-tsoup%21)
+
+1. Open **Assets** and download the **.tsoup** file for your game. Ignore the automatic **Source code** downloads.
+2. In tsoup!, open **Library → Import package** and select the file.
+3. Review the preview and choose **Import / update games**. Check the game's notes and included expansions before starting a match.
+
+Prepare once, play again: imported ready rules can be reused for future matches. If your game isn't listed, you can prepare it inside the app.
+
+These are prepared rules packages for playing with your physical board game, not digital versions of the games.
+
 ### Get started
 1. Download and install tsoup! from **Releases**.
 2. Choose a game already in your library or import a prepared game package. If yours isn’t available, prepare it from its rulebook, adding any missing game information.
