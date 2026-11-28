@@ -12,7 +12,7 @@ tsoup! is a free Windows app for playing physical board games with AI opponents.
 
 [Download tsoup! for Windows](https://github.com/1000Flies/tsoup/releases/tag/v0.8.0)
 
-Under **Assets**, choose **tsoup-0.8.0-setup.exe**.
+Under **Assets**, choose **Tsoup-0.8.0.zip**, not the Source code downloads. Extract the complete folder, keep its files together, then open **tsoup.exe**.
 
 
 ## Download prepared games
@@ -36,7 +36,7 @@ These are prepared rules packages for playing with your physical board game, not
 
 
 ### Get started
-1. Download and install tsoup! from [Releases](https://github.com/1000Flies/tsoup/releases/tag/v0.8.0).
+1. Download and extract tsoup! from [Releases](https://github.com/1000Flies/tsoup/releases/tag/v0.8.0).
 2. Choose a game already in your library or import a prepared game package. If yours isn’t available, prepare it from its rulebook, adding any missing game information.
 3. Connect a tablet as your controller and set up a fixed web camera for comfortable play. Use the tablet’s built-in microphone to dictate updates. A phone can also handle controls and handheld photos for a simpler first try.
 4. Start a match. You’ll discover the rest as you play—the built-in guide is there whenever you need it.
@@ -52,7 +52,7 @@ Game preparation is done once. Reuse your package for future matches, and share 
 - Your own paid ChatGPT or Claude account, currently supported.
 
 
-**tsoup! is completely free. Your AI opponents use your own account’s allowance.** A paid subscription alone does not guarantee enough usage for a full match. In testing so far, entry-level paid plans have run short; the model and plan you choose matter.
+**tsoup! is completely free. Your AI opponents use your own account’s allowance.** Entry-level plans may not cover a full game. Allowance across different plans, models and games has not been fully tested and remains under exploration.
 
 
 Windows and Android have been tested. iPhone and iPad support is in beta and remains untested on real devices.
@@ -70,7 +70,7 @@ Have a question? Open **Ask tsoup!** inside the app for help with using tsoup!. 
 Talk board games, ask questions, and share prepared game packages so someone else can get straight to playing.
 
 
-[Find us on Facebook](https://www.facebook.com/groups/tsoup.boardgames/)
+[Facebook group](https://www.facebook.com/groups/tsoup.boardgames/)
 
 
 ### Say hello
